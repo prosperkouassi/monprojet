@@ -1,0 +1,27 @@
+
+    /*css footer*/
+
+    .footer{
+        padding: 20px 23px;
+        background: black;
+        color: white;
+        font-size: 'poppins';
+      }
+      .social{
+        display: flex;
+        justify-content: center;
+      
+      }
+      .menu-top{
+        display: flex;
+        justify-content: center;
+      }
+      .copyright p{
+        font-size: 15px;
+      }
+      .fa-github-square, .fa-linkedin, .fa-envelope, .fa-themeisle{
+        font-size: 20px;
+        color: white;
+        margin: 0 4px;
+      }
+  
